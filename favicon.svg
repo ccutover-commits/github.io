@@ -1,0 +1,16 @@
+<svg viewBox="0 0 64 64" width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#E8640A"/>
+
+  <!-- Ground/base bar -->
+  <rect x="10" y="44" width="44" height="6" rx="2" fill="#1A1A1A"/>
+
+  <!-- Hard hat dome -->
+  <path d="M32 14 C18 14 12 26 12 38 L52 38 C52 26 46 14 32 14Z" fill="#FFF9F0"/>
+
+  <!-- Hard hat brim -->
+  <rect x="22" y="34" width="20" height="5" rx="1" fill="#E8640A"/>
+
+  <!-- Helmet top pin -->
+  <rect x="29" y="10" width="6" height="10" rx="2" fill="#FFF9F0"/>
+</svg>
